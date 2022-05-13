@@ -39,6 +39,8 @@ letter-spacing: 1px;
 
 
 li{
+    float: left;
+    margin-left: 40px;
     list-style-image: url(../img/lemon2.png);
 }
 
